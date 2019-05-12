@@ -11,11 +11,13 @@ Note: `<your_initials>` should be your actual name
 2. A file called `challenge_regex_sed_<your_initials>.txt`
 Note: `<your_initials>` should be your actual name
 
-## Grade Discussion 4 (week4):  
+## Grade Discussion 4 (week4): 19/20
+
+Question3 is incomplete!  
 
 | **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
 | --- | ---| --- | --- | --- | --- |
-| In-Lab work |  | | | |
-| Challenge - Effort |  | | | |
-| Challenge - Accuracy |  | | | |
-| Challenge - Timely Submission |  | | | |
+| In-Lab work | **X** | | | |
+| Mini-challenge | | **X** | | |
+| Challenge | **X** | | | |
+| Challenges - Timely Submission | **X** | | | |
